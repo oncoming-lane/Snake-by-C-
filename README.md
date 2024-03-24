@@ -1,1 +1,1 @@
-# Snake-by-C-
+# Console Snake by C
